@@ -1,0 +1,3 @@
+require 'mygem'
+
+Mygem.hi
