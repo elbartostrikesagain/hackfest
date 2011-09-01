@@ -19,6 +19,6 @@ Gem::Specification.new do |s|
 
   # Development Dependencies
   s.add_development_dependency "bundler"  , "~> 1.0.0"
-  s.add_development_dependency "minitest" , "~> 2.2.2"
+  s.add_development_dependency "minitest"
   s.add_development_dependency "httparty"
 end
